@@ -1,0 +1,1 @@
+console.log("n1", "https://imit.fullrocketspeed.com/files/full/posters/352.jpg");
